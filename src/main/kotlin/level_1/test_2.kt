@@ -10,3 +10,4 @@ fun main(){
     companyStaff --
     println("$companyStaff - for the period after (company staff)")
 }
+const val ACTION_FOR_SUCCES_FUL_PAYMENT: String = "Thank you for forgetting how to walk"
